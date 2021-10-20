@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'What We Do'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/binders.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Our firm specializes in doing law type things. We are pretty good at it too. We can probably help you out, unless you are trying to sue your employer for mandating vaccinations. If that's the case, you are better off just letting us smack you in the head, then writing us a check for a few thousand dollars as payment for saving you the time and embarrasment of trying to convince anyone that you aren't insane.
