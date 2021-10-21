@@ -5,7 +5,7 @@ icon: 'services/service-icon-2.png'
 featured: true
 draft: false
 heroHeading: 'Pet Law'
-heroSubHeading: 'For when man's best friend needs representation'
+heroSubHeading: 'Even Pets break the law'
 heroBackground: 'services/service2.jpg'
 ---
 

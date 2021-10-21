@@ -5,7 +5,7 @@ icon: 'services/service-icon-3.png'
 featured: true
 draft: false
 heroHeading: 'Friendship Law'
-heroSubHeading: 'Sometimes even our best friends need to get sued.'
+heroSubHeading: 'Sometimes even our best friends need to get sued'
 heroBackground: 'services/service1.jpg'
 ---
 

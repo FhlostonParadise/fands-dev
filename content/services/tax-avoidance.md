@@ -5,13 +5,19 @@ icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Avoidance '
+heroHeading: 'Tax Avoidance'
 heroSubHeading: 'Become a sovereign citizen today'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
+**Become a sovereign citizen today!** 
+
+
+
+
+
+
+Penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
 Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
 
