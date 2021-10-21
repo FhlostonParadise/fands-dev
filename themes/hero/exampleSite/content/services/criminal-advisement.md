@@ -1,11 +1,11 @@
 ---
-title: 'Mergers'
+title: 'Criminal Advisement'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Criminal Advisement'
+heroSubHeading: 'Thinking of commiting a crime? Let us help you choose.'
 heroBackground: 'services/service2.jpg'
 ---
 

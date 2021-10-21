@@ -2,7 +2,7 @@
 title: 'What We Do'
 weight: 1
 background: 'images/binders.jpg'
-button: 'Our Work'
+button: 'Our Firm'
 buttonLink: 'work'
 ---
 
