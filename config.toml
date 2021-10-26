@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Fitzpatrick & Swanston"
 themesDir = "themes"
 theme = "hero"
 publishDir = "public"
