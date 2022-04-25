@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'About Us'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Our Firm'
+buttonLink: '#'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+We are Salinas-based Employment Law experts representing clients in Monterey, Santa Cruz, San Benito, and Santa Clara Counties and throughout California. 

@@ -6,4 +6,4 @@ button: 'Our Firm'
 buttonLink: 'work'
 ---
 
-Our firm specializes in doing law type things. We are pretty good at it too. We can probably help you out, unless you are trying to sue your employer for mandating vaccinations. If that's the case, you are better off just letting us smack you in the head, then writing us a check for a few thousand dollars as payment for saving you the time and embarrasment of trying to convince anyone that you aren't insane.
+Our highly experienced Labor and Employment Law attorneys advise and represent California employees and employers from all industries in a variety of employment-related matters, including wage and hour class actions, harassment, discrimination, and wrongful termination, independent contractor misclassification, unfair labor practices, and administrative proceedings. For employees, we take cases on a contingency fee, meaning you only pay if we win your case. 
