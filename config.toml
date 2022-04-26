@@ -24,24 +24,24 @@ google_analytics_id = ""
   # meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-name = "Services"
+name = "Expertise"
 url = "/services/"
 weight = 1
 
-[[menu.main]]
-name = "Work"
-url = "/work/"
-weight = 2
+# [[menu.main]]
+# name = "Work"
+# url = "/work/"
+# weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about/"
 weight = 3
 
-[[menu.main]]
-name = "History"
-url = "/history/"
-weight = 3
+# [[menu.main]]
+# name = "History"
+# url = "/history/"
+# weight = 3
 
 [[menu.main]]
 name = "Contact"
